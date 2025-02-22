@@ -1,4 +1,4 @@
-### Project Title: **Student Performance Analysis**
+### Project Title: **Workforce Data Optimization & Insights Using SQL**
 
 #### Description:
 This project analyzes various factors influencing students' academic performance using a dataset containing attributes such as attendance, access to resources, parental involvement, family income, and more. The goal of the analysis is to identify significant factors affecting exam scores and provide actionable insights for improving student outcomes. The project employs Python for data cleaning, analysis, and visualization, showcasing key relationships through compelling plots and statistical tests.
